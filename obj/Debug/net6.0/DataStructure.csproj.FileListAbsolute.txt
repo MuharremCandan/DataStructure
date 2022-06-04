@@ -1,0 +1,15 @@
+C:\Projects\GolangProjects\DataStructure\obj\Debug\net6.0\DataStructure.csproj.AssemblyReference.cache
+C:\Projects\GolangProjects\DataStructure\obj\Debug\net6.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GolangProjects\DataStructure\obj\Debug\net6.0\DataStructure.AssemblyInfoInputs.cache
+C:\Projects\GolangProjects\DataStructure\obj\Debug\net6.0\DataStructure.AssemblyInfo.cs
+C:\Projects\GolangProjects\DataStructure\obj\Debug\net6.0\DataStructure.csproj.CoreCompileInputs.cache
+C:\Projects\GolangProjects\DataStructure\bin\Debug\net6.0\DataStructure.exe
+C:\Projects\GolangProjects\DataStructure\bin\Debug\net6.0\DataStructure.deps.json
+C:\Projects\GolangProjects\DataStructure\bin\Debug\net6.0\DataStructure.runtimeconfig.json
+C:\Projects\GolangProjects\DataStructure\bin\Debug\net6.0\DataStructure.dll
+C:\Projects\GolangProjects\DataStructure\bin\Debug\net6.0\DataStructure.pdb
+C:\Projects\GolangProjects\DataStructure\obj\Debug\net6.0\DataStructure.dll
+C:\Projects\GolangProjects\DataStructure\obj\Debug\net6.0\refint\DataStructure.dll
+C:\Projects\GolangProjects\DataStructure\obj\Debug\net6.0\DataStructure.pdb
+C:\Projects\GolangProjects\DataStructure\obj\Debug\net6.0\DataStructure.genruntimeconfig.cache
+C:\Projects\GolangProjects\DataStructure\obj\Debug\net6.0\ref\DataStructure.dll

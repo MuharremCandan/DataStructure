@@ -1,0 +1,50 @@
+Algoritma Nedir ?
+    Algoritma belirli bir sorunu çözmek için kullanılan sıralı mantıksal adımlar kümesine denir.Mesela planladığımız bir gün aslında bir algoritmadır.
+    Meşhur "Makarna Algoritması" 'dan bahsetmezsek olmaz tabiki. Suyu ısıt -> kaynamasını bekle -> makarnayı tencereye koy -> tuz at -> karıştır -> kapağını kapat
+    Tamamen sorunu adım adım çözen bir çözüm kümesi olarak adlandırabilir algoritmalar. Tabiki algoritmalar sadece bu kadar değil , algoritmalar özelliklere de sahiptirler;
+
+        Giriş - Belirlilik - Çıkış - Etkililik - Sınırlılık
+
+
+
+Data Nedir ?
+    Günlük hayatta karşılaştığımız her şey bir veri dir aslında veya yaptığınız her şey bir veri üretir. Mesela örnek vermek gerekirse ; oyun scorunuz , marketteki fatura 
+    tutarınız, attığınız adım, kullandığınız yol. Bu verilerin toplanıp kıyaslanması , işlenmesi gibi adımların sonucunda ise bilgi ortaya çıkar. Örnek ; satın aldığınız ürünler 
+    diğer insanların aldıkları ile kıyaslanıp en çok satan hiç satmayan ürünlerin ne olduğunu anlamamızı sağlar. Bizim fişimiz veri iken ondan çıkardığımız anlama ise bilgi deniyor.
+    Veriler işlenerek bilgilere dönüşür. Veri Bilimcilerin görevleri ise budur , verilerden anlam çıkarmak. Tabiki de bazen o anlamları görmek o kadar da kolay olmayabilir veya 
+    elinizdeki veriler işlemeye uygun olmayabilir. ONları düzenlenmesi hazır hale getirilmesi gibi bir çok adımdan geçirilmesi gerekir. (İşte Veri Bilimcisi. : ) )
+
+
+
+Liste Nedir ? 
+    Evimizde mutafak için bir liste yaptık diyelim. Gerekli meyve - sebze alacağız ve eksikler için liste oluşturuyoruz. Aralarında ilişki bulunduran verilerin toplandığı yer denebilir 
+    listeler için. Listeye yazdıklarımız aslında ortak bir çatı altında toplanıyor. Mutfak gereçleri. Listeler de bu verileri bir arada tutmak için kullanılan yapılardır.Çeşitli liste türleri 
+    vardır. Ve her liste türü kendi içerisinde fonksiyonlar içerir. Bunların hepsine ilerde bahsedeceğiz.  
+
+
+
+
+
+
+
+
+
+Dizi Nedir ?
+Dizi - Liste Arası Farklar Nelerdir ?
+
+Liste Türleri ?
+
+    -Tek Yönlü Doğruasal Liste    
+    -Çift Yönlü Doğrusal Liste
+    -Tek Yönlü Dairesel Liste
+    -Çift Yönlü Dairesel Liste
+
+
+Yığıt / Yığın  (Stack) Nedir ? 
+    - Prefix - Postfix -Infix Nelerdir ?
+
+
+Kuyruk (Queue) nedir ?
+
+
+
